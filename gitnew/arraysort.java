@@ -42,6 +42,5 @@ for(i=0;i<s.n;i++)
 {
 a[i]=sc.nextInt();
 }
-s.sorting(a,s.n);
 }
 }
