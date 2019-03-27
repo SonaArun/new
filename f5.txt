@@ -1,5 +1,0 @@
-abcd
-efgh
-hijk
-lmno
-pqrs
